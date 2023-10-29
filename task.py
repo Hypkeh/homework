@@ -3,7 +3,7 @@ strLst = ["Apple","Avocado","Banana","Antarctida","Computer"]
 
 sortedLstNum = list(filter(lambda x: x%2==0, numLst))
 numLstsquare = list(filter(lambda x: x*x, sortedLstNum))
-#print(sortedLstNum)
+print(sortedLstNum)
 #print(numLstsquare)
 
 
